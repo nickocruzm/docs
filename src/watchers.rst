@@ -43,6 +43,9 @@ If you want to more accurately track media consumption.
 - :gh-aw:`aw-watcher-chromecast` - (not working yet) Watches what is playing on you Chromecast device.
 - :gh-aw:`aw-watcher-openvr` - (not working yet) Watches active VR applications.
 - :gh:`RundownRhino/aw-watcher-mpv-sender` - (WIP) Watches mpv and reports the currently playing video.
+- :gh:`2e3s/aw-watcher-media-player` - Watches the currently playing media which is reported by most players to the system.
+
+.. _other-watchers:
 
 Other watchers
 --------------
@@ -56,6 +59,9 @@ Other watchers to collect all kinds of data.
 - :gh:`Alwinator/aw-watcher-utilization` - Monitors CPU, RAM, disk, network, and sensor usage, by :gh-user:`Alwinator`
 - :gh:`abdnh/aw-watcher-anki` - An add-on for Anki that tracks time spent reviewing cards.
 - :gh:`Edwardsoen/aw-watcher-steam` - A Watcher to monitor current game being played.
+- :gh:`2e3s/awatcher` - A compiled watcher for X11 and Wayland to replace the original active window and AFK watchers, with workarounds for KDE and Gnome on Wayland.
+- :gh:`RTnhN/aw-watcher-toggl` - A Watcher to import time entries from Toggl.
+- :gh:`sameersismail/aw-watcher-netstatus` - Monitors if you're connected to a network, by :gh-user:`sameersismail`.
 
 Custom visualizations
 ---------------------
